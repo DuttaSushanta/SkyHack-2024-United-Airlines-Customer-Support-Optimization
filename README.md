@@ -12,8 +12,9 @@ This project, built for the SkyHack 2.0 hackathon with United Airlines, aims to 
 - **Root Cause Analysis**: Uncovered key drivers of long call handling times and recommended optimizations.
 - **ML Models**: Built classification models to detect inefficiencies and improve customer experience.
 
+- **data/** https://www.hackerearth.com/challenges/hackathon/skyhack-3/
+
 ## Repository Structure
-- **data/**: Contains raw and processed data files.
 - **notebooks/**: Contains Jupyter notebook of analysis.
 - **presentation/**: Contains final presentation for submission.
 
