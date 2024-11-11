@@ -19,4 +19,6 @@ This project, built for the SkyHack 2.0 hackathon with United Airlines, aims to 
 - **notebooks/**: Contains Jupyter notebook of analysis.
 - **presentation/**: Contains final presentation for submission.
 
+## Acknowledgements
+Special thanks to United Airlines for hosting this hackathon and to my teammate Samrendra for his invaluable contributions.
 
